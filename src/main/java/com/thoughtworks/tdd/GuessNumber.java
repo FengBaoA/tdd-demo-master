@@ -12,7 +12,7 @@ public class GuessNumber {
         if(this.answer.equals(input)){
             return "4A0B";
         }
-        Arrays.asList(this.answer.split(""));
+        //实现"1a0b"
         /*
         String[] argsAnswer = this.answer.split("");
         String[] argsInput = input.split("");
